@@ -1,3 +1,3 @@
-##Git Demo
+#Git Demo
 
 > Some content
